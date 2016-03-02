@@ -1,0 +1,5 @@
+pygments: true
+markdown: kramdown
+name: Glottobank News
+description: News from Glottobank
+url: http://glottobank.org/news.html
