@@ -19,6 +19,17 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/russell_gray.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Russell Gray</b> Ph.D. (Univ. Auckland), FRSNZ, is the Director of the Department of 
+  Linguistic and Cultural Evolution at the Max Planck Institute for the Science of Human 
+  History. He is sponsor and co-leader of Glottobank.
+        </div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/wolfgang_barth.png" class="img-polaroid">
         </div>
         <div class="span10">
@@ -97,17 +108,6 @@ menu_item: people
 <b>Robert Forkel</b> is responsible for strategies and infrastructure for data curation and 
   presentation within the consortium, bringing in the experiences gathered in the 
   <a href="http://clld.org"><i class="icon-share"> </i>CLLD project</a>.
-        </div>
-</div>
-<hr>
-<div class="row-fluid">
-        <div class="span2">
-  <img src="/photos/russell_gray.jpg" class="img-polaroid">
-        </div>
-        <div class="span10">
-<b>Russell Gray</b> Ph.D. (Univ. Auckland), FRSNZ, is the Director of the Department of 
-  Linguistic and Cultural Evolution at the Max Planck Institute for the Science of Human 
-  History. He is sponsor and co-leader of Glottobank.
         </div>
 </div>
 <hr>
