@@ -106,3 +106,11 @@ alignment analyses, automatic cognate detection, and various tools to explore an
 lexical data. Finally, [CLDF](https://github.com/glottobank/cldf) and associated standards 
 are aimed at providing an interface between databases and tools which will enable easier 
 sharing of data and code.
+
+
+### Funding
+
+In addition to the time and energy of members of the consortium, Glottobank is supported 
+by a Royal Society of New Zealand Marsden Grant (grant #13-UOA-121), the Max Planck 
+Institute for the Science of Human History and the ARC Centre of Excellence for the 
+Dynamics of Language.
