@@ -111,6 +111,6 @@ sharing of data and code.
 ### Funding
 
 In addition to the time and energy of members of the consortium, Glottobank is supported 
-by a Royal Society of New Zealand Marsden Grant (grant #13-UOA-121), the Max Planck 
-Institute for the Science of Human History and the ARC Centre of Excellence for the 
-Dynamics of Language.
+by the Max Planck Institute for the Science of Human History, 
+a Royal Society of New Zealand Marsden Grant (grant #13-UOA-121) and 
+the ARC Centre of Excellence for the Dynamics of Language.
