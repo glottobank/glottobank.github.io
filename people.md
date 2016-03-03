@@ -124,6 +124,21 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/martin_haspelmath.png" class="img-polaroid">
+        </div>
+        <div class="span10">
+<a href="https://research.uni-leipzig.de/unicodas/martin-haspelmath/"><i class="icon-share"> </i><b>Martin Haspelmath</b></a> is a 
+  senior scientist at MPI-SHH Jena and a professor at Leipzig 
+  University. He was one of the creators of the 
+  <a href="http://wals.info"><i class="icon-share"> </i>World Atlas of Language Structures</a> (2005) 
+  and was heavily involved in feature design in the 
+  <a href="http://apics-online.info"><i class="icon-share"> </i>Atlas of Pidgin and Creole Language Structures</a> (2013). 
+  He is a senior advisor in the Grambank project.
+        </div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/hannah_haynie.jpg" class="img-polaroid">
         </div>
         <div class="span10">
@@ -174,6 +189,30 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/stephen_levinson.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Stephen Levinson</b> is Director of the Max Planck Institute for Psycholinguistics. His work 
+focusses on language diversity and its implications for theories of human cognition. He is 
+a a designer and senior advisor on the Grambank project.        
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
+  <img src="/photos/luke_maurits.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<a href="http://www.luke.maurits.id.au"><b>Luke Maurits</b></a> is a postdoctoral scholar 
+at the University of Auckland, with a background in mathematics and cognitive science.  
+He works on Bayesian modelling of linguistic and cultural change, and is the principle 
+developer of the BEASTling software package, which aims to make computational historical 
+linguistics more accessible, automatable and replicatable.
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <!--img src="/photos/.jpg" class="img-polaroid"-->
         </div>
         <div class="span10">
@@ -203,20 +242,5 @@ menu_item: people
   <a href="http://chl-old.anu.edu.au/_documents/laureate_project_evans2014.pdf"><i class="icon-share"> </i>The PhD project</a> 
   is a part of the 
   <a href="http://www.dynamicsoflanguage.edu.au/the-wellsprings-of-linguistic-diversity/"><i class="icon-share"> </i>Wellsprings of Linguistic Diversity</a>.
-        </div>
-</div>
-<hr>
-<div class="row-fluid">
-        <div class="span2">
-  <img src="/photos/martin_haspelmath.png" class="img-polaroid">
-        </div>
-        <div class="span10">
-<a href="https://research.uni-leipzig.de/unicodas/martin-haspelmath/"><i class="icon-share"> </i><b>Martin Haspelmath</b></a> is a 
-  senior scientist at MPI-SHH Jena and a professor at Leipzig 
-  University. He was one of the creators of the 
-  <a href="http://wals.info"><i class="icon-share"> </i>World Atlas of Language Structures</a> (2005) 
-  and was heavily involved in feature design in the 
-  <a href="http://apics-online.info"><i class="icon-share"> </i>Atlas of Pidgin and Creole Language Structures</a> (2013). 
-  He is a senior advisor in the Grambank project.
         </div>
 </div>
