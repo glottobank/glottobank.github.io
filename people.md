@@ -113,7 +113,7 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
-  <img src="/photos/Greenhill.jpg" class="img-polaroid">
+  <img src="/photos/Greenhill.jpeg" class="img-polaroid">
         </div>
         <div class="span10">
 <b>Simon Greenhill</b> studies how languages evolve using computational methods and large-scale cross-linguistic databases. He is currently a research fellow in the ARC Research Centre for the Dynamics of Language (CoEDL), and at the Max Planck Institute for the Science of Human History. His role in this project is design and analysis of Lexibank and Parabank. 
