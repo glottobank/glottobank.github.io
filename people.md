@@ -224,6 +224,15 @@ linguistics more accessible, automatable and replicatable.
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <!--img src="/photos/.jpg" class="img-polaroid"-->
+        </div>
+        <div class="span10">
+<b>Linda Raabe</b> is a bachelor student at CAU Kiel, where she studies empirical linguistics. Her role in Grambank is to code languages. 
+        </div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/hedvig_skirgard.jpg" class="img-polaroid">
         </div>
         <div class="span10">
