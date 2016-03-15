@@ -229,7 +229,7 @@ linguistics more accessible, automatable and replicatable.
 <hr>
 <div class="row-fluid">
         <div class="span2">
-  <!--img src="/photos/.jpg" class="img-polaroid"-->
+  <img src="/photos/kjq.JPG" class="img-polaroid">
         </div>
         <div class="span10">
 <b>Kyla Quinn</b> is a PhD student at the Australian National University in Canberra.  Kyla is 
