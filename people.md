@@ -205,6 +205,15 @@ Her research interests lie in linguistic typology and areal linguistics focusing
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <!--img src="/photos/.jpg" class="img-polaroid"-->
+        </div>
+        <div class="span10">
+<b>Jakob Lesage</b> studied linguistics in Leuven and Nijmegen. In Nijmegen he started working as a student and research assistant on the Nijmegen Typological Survey, where he coded mainly Central African languages (mainly Bantu and Ubangian). Today he is a Grambank coder and patron. He is interested in all languages but has worked mainly on Australia and sub-Saharan Africa. He's currently stationed among the <a href="http://www.kongoking.org/"><i class="icon-share"> </i>KongoKing</a> folks at Ghent University.        
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/stephen_levinson.jpg" class="img-polaroid">
         </div>
         <div class="span10">
@@ -232,9 +241,7 @@ linguistics more accessible, automatable and replicatable.
   <img src="/photos/kjq.JPG" class="img-polaroid">
         </div>
         <div class="span10">
-<b>Kyla Quinn</b> is a PhD student at the Australian National University in Canberra.  Kyla is 
-  a member of the Parabank collective and is researching whether syncretism can be used as 
-  a tool for diagnosing phylogeny and contact relationships between languages. 
+<b>Kyla Quinn</b> is a PhD student in the Centre of Excellence for the Dynamics of Language at the Australian National University in Canberra.  She is researching whether syncretism can be used as a tool for diagnosing phylogeny and contact relationships between languages. Kyla is also interested in morphology and paradigms, their description and visualisation. Kyla is one of the designers of Parabank. 
         </div>
 </div>
 <hr>
