@@ -195,6 +195,16 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/Olga.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Olga Krasnoukhova</b> is a member of the Grambank project and is responsible for coding data on South American languages.
+Her research interests lie in linguistic typology and areal linguistics focusing on South American languages. Her doctoral thesis (2012) investigated syntactic and morphosyntactic characteristics of the Noun Phrase components. Olga is also one of the designers of the SAILS database (http://sails.clld.org/).
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/stephen_levinson.jpg" class="img-polaroid">
         </div>
         <div class="span10">
@@ -283,6 +293,6 @@ linguistics more accessible, automatable and replicatable.
   <img src="/photos/Alena.png" class="img-polaroid">
         </div>
         <div class="span10">
-<b>Alena Witzlack-Makarevih</b> s an assistant professor at the University of Kiel. Her role in GramBank is to supervise the coders at the University of Kiel. She is also a patron of twenty feature related to grammatical relations and alignment.
+<b>Alena Witzlack-Makarevih</b> is an assistant professor at the University of Kiel. Her role in GramBank is to supervise the coders at the University of Kiel. She is also a patron of twenty feature related to grammatical relations and alignment.
 </div>
 </div>
