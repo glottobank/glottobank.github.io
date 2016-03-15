@@ -10,10 +10,7 @@ menu_item: people
   <img src="/photos/quentin_atkinson.jpg" class="img-polaroid">
         </div>
         <div class="span10">
-  <b>Quentin Atkinson</b> is Associate Professor in Psychology at the University of Auckland and 
-  co-director of the <a href="https://www.facebook.com/LCCLab"><i class="icon-share"> </i>Language, Culture and Cognition Lab</a>. 
-  <a href="http://www.quentinatkinson.com"><i class="icon-share"> </i>His research</a> uses computational modeling tools to study the 
-  evolution of language and culture. He is co-leader of Glottobank.
+  <a href="http://www.quentinatkinson.com"><b>Quentin Atkinson</b></a> is Associate Professor in Psychology at the University of Auckland and co-director of the <a href="https://www.facebook.com/LCCLab"><i class="icon-share"> </i>Language, Culture and Cognition Lab</a>. His research uses computational modeling tools to study the evolution of language and culture. He is co-leader of Glottobank.
         </div>
 </div>
 <hr>
