@@ -268,3 +268,11 @@ linguistics more accessible, automatable and replicatable.
   <a href="http://www.dynamicsoflanguage.edu.au/the-wellsprings-of-linguistic-diversity/"><i class="icon-share"> </i>Wellsprings of Linguistic Diversity</a>.
         </div>
 </div>
+<div class="row-fluid">
+        <div class="span2">
+  <img src="/photos/Martine.JPG" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Jana Winkler</b> is a master's student of Language & Variation and English Language, Literature & Lingustics at CAU Kiel. She has an interest in creoles. Her role in Grambank is to code languages.
+</div>
+</div>
