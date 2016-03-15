@@ -242,6 +242,15 @@ linguistics more accessible, automatable and replicatable.
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/Martine.JPG" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Martine Robbeets</b> is a research group leader at MPI-SHH Jena. With her team, she plans to contribute data on the Transeurasian languages to Grambank, Parabank and Lexibank. Project website <a href="http://www.shh.mpg.de/102128/eurasia3angle_group"><i class="icon-share"> </i>here</a>.
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/hedvig_skirgard.jpg" class="img-polaroid">
         </div>
         <div class="span10">
