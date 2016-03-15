@@ -238,6 +238,15 @@ linguistics more accessible, automatable and replicatable.
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/Natalia.png" class="img-polaroid">
+        </div>
+        <div class="span10">
+Nataliia Neshcheret is a Grambank language coder from Kiel, where she is doing her Master's. Her research interests are computational linguistics and speech processing.
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/kjq.JPG" class="img-polaroid">
         </div>
         <div class="span10">
