@@ -85,6 +85,15 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/Luise.png" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Luise Dorenbusch</b> studied linguistics in Leipzig and Nijmegen and has worked at the MPI for Evolutionary Anthropology and the MPI for Psycholinguistics. Currently based in Leipzig, she codes language data for Grambank with a focus on the non-Pama-Nyungan languages of Australia.
+        </div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/nick_evans.jpg" class="img-polaroid">
         </div>
         <div class="span10">
