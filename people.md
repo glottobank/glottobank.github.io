@@ -318,6 +318,6 @@ Nataliia Neshcheret is a Grambank language coder from Kiel, where she is doing h
   <img src="/photos/Alena.png" class="img-polaroid">
         </div>
         <div class="span10">
-<b>Alena Witzlack-Makarevih</b> is an assistant professor at the University of Kiel. Her role in GramBank is to supervise the coders at the University of Kiel. She is also a patron of twenty feature related to grammatical relations and alignment.
+<b>Alena Witzlack-Makarevich</b> is an assistant professor at the University of Kiel. Her role in GramBank is to supervise the coders at the University of Kiel. She is also a patron of twenty feature related to grammatical relations and alignment.
 </div>
 </div>
