@@ -228,7 +228,17 @@ Her research interests lie in linguistic typology and areal linguistics focusing
         <div class="span10">
 <b>Stephen Levinson</b> is Director of the Max Planck Institute for Psycholinguistics. His work 
 focusses on language diversity and its implications for theories of human cognition. He is 
-a a designer and senior advisor on the Grambank project.        
+a designer and senior advisor on the Grambank project.        
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
+  <img src="/photos/mattis_list.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<a href="http://lingulist.de">Johann-Mattis List</a> is a post-doctoral research fellow currently pursuing an
+interdisciplinary research project on Chinese dialect history in Paris. In his research, he generally follows a data-driven, empirical, and quantitative perspective on language change and language history, with a focus on computer-assisted approaches that mediate between classical and computational approaches. He is theoretically and practically involved in the LexiBank and PhonoBank projects.
 </div>
 </div>
 <hr>
