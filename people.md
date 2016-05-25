@@ -94,6 +94,15 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/michael_dunn.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Michael Dunn</b> studies the evolution of language structure and the history of language families. His work combines traditional linguistic methods with computational (phylogenetic) approaches from the biological and ecological sciences. Michael is Professor of General Linguistics at Uppsala University in Sweden.
+	</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/nick_evans.jpg" class="img-polaroid">
         </div>
         <div class="span10">
