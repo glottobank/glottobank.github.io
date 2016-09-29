@@ -23,7 +23,7 @@ consists of 200 logically independent features (most of them binary) spanning
 all subdomains of morphosyntax. The Grambank feature questionnaire has been 
 filled in, based on reference grammars, for over 500 languages. The aim is to 
 eventually reach as many as 3,000 languages. The database can be used to 
-investigate deep language prehistory, the geographical-distribution of 
+investigate language prehistory, the geographical-distribution of 
 features, language universals and the functional interaction of structural 
 features. 
 <!--
@@ -36,7 +36,7 @@ Lexibank is a public database and repository for lexical data from the languages
 world. Currently, Lexibank contains lexemes and cognate judgments from ~2500 languages 
 spanning Africa, Europe, Asia, the Pacific, and the Americas. The database will be used to 
 refine cognate judgments, infer language relationships, construct language phylogenies, 
-test hypotheses about deep language history, investigate factors that affect the mode and 
+test hypotheses about language history, investigate factors that affect the mode and 
 tempo of language evolution, model sound change, and facilitate quantitative comparisons 
 with other types of linguistic data. The initial focus of Lexibank will be on compiling 
 basic or core vocabulary, but ultimately the database will be expanded to include a full 
@@ -59,7 +59,7 @@ every other cell.
 
 Because the paradigms we explore are ubiquitous across the world’s languages, our working 
 hypothesis is that paradigmatic syncretisms can provide significant signal to linguistic 
-relationships in deep time, and the database is designed to allow the systematic 
+relationships in time, and the database is designed to allow the systematic 
 exploration of morphosyntactic features by linguistic typologists and evolutionary 
 biologists. Additionally, Parabank will be an important resource to assist in the 
 identification and quantification of some of the important mechanisms in how the design 
