@@ -37,7 +37,7 @@ menu_item: people
 <hr>
 <div class="row-fluid">
         <div class="span2">
-  <!--img src="/photos/.jpg" class="img-polaroid"-->
+  <img src="/photos/Damian.jpg" class="img-polaroid">
         </div>
         <div class="span10">
 <b>Damián Blasi</b> is a postdoc at the University of Zürich and an external member of the 
@@ -55,6 +55,15 @@ menu_item: people
 <a href="https://www.cs.auckland.ac.nz/~remco/"><i class="icon-share"> </i><b>Remco Bouckaert</b></a> is a research fellow affiliated 
   with the University of Auckland, and developing new methods to infer deep language 
   relationships using the Glottobank data.
+        </div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
+  <img src="/photos/Claire.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<a href="http://campuspress.yale.edu/clairebowern/"><i class="icon-share"> </i><b>Claire Bowern</b></a> (PhD, Harvard, 2004) is Associate Professor of Linguistics at Yale University. She is a specialist in historical linguistics and language documentation, with particular reference to the languages of Australia - <a href="http://www.pamanyungan.net/"><i class="icon-share"> </i><b>Yale Pama-Nyungan Lab</b></a>. She does fieldwork in northern Australia on Yolŋu and Nyulnyulan languages and her reference grammar of Bardi appeared in 2012. Her current research involves the possible differences between languages spoken by hunter-gatherer groups and the better-studied languages of agriculturalists. She has led an interdisciplinary initiative funded by the National Science Foundation’s Human Social Dynamics program to investigate hunter-gatherer language change, including differences in loan rates, material culture nomenclature, and ethnobiology. 
         </div>
 </div>
 <hr>
@@ -90,6 +99,15 @@ menu_item: people
         <div class="span10">
 <b>Luise Dorenbusch</b> studied linguistics in Leipzig and Nijmegen and has worked at the MPI for Evolutionary Anthropology and the MPI for Psycholinguistics. Currently based in Leipzig, she codes language data for Grambank with a focus on the non-Pama-Nyungan languages of Australia.
         </div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
+  <img src="/photos/michael_dunn.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+<b>Michael Dunn</b> studies the evolution of language structure and the history of language families. His work combines traditional linguistic methods with computational (phylogenetic) approaches from the biological and ecological sciences. Michael is Professor of General Linguistics at Uppsala University in Sweden.
+	</div>
 </div>
 <hr>
 <div class="row-fluid">
