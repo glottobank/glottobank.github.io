@@ -232,10 +232,10 @@ Her research interests lie in linguistic typology and areal linguistics focusing
 <hr>
 <div class="row-fluid">
         <div class="span2">
-  <!--img src="/photos/.jpg" class="img-polaroid"-->
+  <img src="/photos/lesage.png" class="img-polaroid">
         </div>
         <div class="span10">
-<b>Jakob Lesage</b> studied linguistics in Leuven and Nijmegen. In Nijmegen he started working as a student and research assistant on the Nijmegen Typological Survey, where he coded mainly Central African languages (mainly Bantu and Ubangian). Today he is a Grambank coder and patron. He is interested in all languages but has worked mainly on Australia and sub-Saharan Africa. He's currently stationed among the <a href="http://www.kongoking.org/"><i class="icon-share"> </i>KongoKing</a> folks at Ghent University.        
+<b>Jakob Lesage</b> is a PhD student at INALCO in Paris and is part of the Adagram (http://llacan.vjf.cnrs.fr/AdaGram/#nogo) project based at the research unit "Langage, Langues et Cultures d'Afrique Noir" (LLACAN), where he is working on a (coder-friendly) grammar of Kam, an Adamawa language of northeastern Nigeria. He is a Grambank feature patron and occasional coder.        
 </div>
 </div>
 <hr>
