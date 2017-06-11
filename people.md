@@ -278,7 +278,7 @@ linguistics more accessible, automatable and replicatable.
   <img src="/photos/Natalia.png" class="img-polaroid">
         </div>
         <div class="span10">
-Nataliia Neshcheret is a Grambank language coder from Kiel, where she is doing her Master's. Her research interests are computational linguistics and speech processing.
+<b>Nataliia Neshcheret</b> is a Grambank language coder from Kiel, where she is doing her Master's. Her research interests are computational linguistics and speech processing.
 </div>
 </div>
 <hr>
@@ -287,7 +287,7 @@ Nataliia Neshcheret is a Grambank language coder from Kiel, where she is doing h
   <img src="/photos/Johanna_Nickel.JPG" class="img-polaroid">
         </div>
         <div class="span10">
-Johanna Nickel is a master's student at CAU Kiel, where she studies Language & Variation and Scandinavian studies. Her role at Grambank is to code languages.
+<b>Johanna Nickel</b> is a master's student at CAU Kiel, where she studies Language & Variation and Scandinavian studies. Her role at Grambank is to code languages.
 </div>
 </div>
 <hr>
@@ -296,7 +296,7 @@ Johanna Nickel is a master's student at CAU Kiel, where she studies Language & V
   <img src="/photos/Pieper.jpg" class="img-polaroid">
         </div>
         <div class="span10">
-Sören Pieper is a Grambank coder from Kiel. He is in the final stages of his MA in Language and Variation and Political Science at the University of Kiel. He is currently writing his MA thesis in typology concerning the cross-linguistic diversity of antipassives.
+<b>Sören Pieper</b> is a Grambank coder from Kiel. He is in the final stages of his MA in Language and Variation and Political Science at the University of Kiel. He is currently writing his MA thesis in typology concerning the cross-linguistic diversity of antipassives.
 </div>
 </div>
 <hr>
