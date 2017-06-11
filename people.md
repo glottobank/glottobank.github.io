@@ -284,6 +284,15 @@ Nataliia Neshcheret is a Grambank language coder from Kiel, where she is doing h
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/Johanna_Nickel.JPG" class="img-polaroid">
+        </div>
+        <div class="span10">
+Johanna Nickel is a master's student at CAU Kiel, where she studies Language & Variation and Scandinavian studies. Her role at Grambank is to code languages.
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/kjq.JPG" class="img-polaroid">
         </div>
         <div class="span10">
