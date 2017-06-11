@@ -12,7 +12,7 @@ lexicon (Lexibank), paradigm systems (Parabank) and phonetic changes (Phonobank
 In doing so, we seek to develop new methods in language documentation, compile 
 data on the world’s languages and make this data accessible and useful. Second, 
 we are developing methods to use this data to make inferences about human 
-prehistory, relationships between languages and processes of language change. 
+prehistory, relationships between languages and processes of language change. We anticipate data will begin to become available in 2018.
 </p>
 
 
