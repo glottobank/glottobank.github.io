@@ -293,6 +293,15 @@ Johanna Nickel is a master's student at CAU Kiel, where she studies Language & V
 <hr>
 <div class="row-fluid">
         <div class="span2">
+  <img src="/photos/Pieper.jpg" class="img-polaroid">
+        </div>
+        <div class="span10">
+Sören Pieper is a Grambank coder from Kiel. He is in the final stages of his MA in Language and Variation and Political Science at the University of Kiel. He is currently writing his MA thesis in typology concerning the cross-linguistic diversity of antipassives.
+</div>
+</div>
+<hr>
+<div class="row-fluid">
+        <div class="span2">
   <img src="/photos/kjq.JPG" class="img-polaroid">
         </div>
         <div class="span10">
