@@ -76,6 +76,12 @@ researcher. Funding will primarily come from the CoEDL.
 To find out more, click here.
 -->
 
+### Numeralbank
+
+Numeralbank is a public database and repository on numeral systems in the world’s languages. It is motivated by the idea that number words do not just form an important part of most languages, but constitute systems that serve as essential tools at the intersection of culture, language, and cognition. Numeralbank can be used to classify numeral systems according to their properties, to document the geographical distribution of system types, to investigate commonalities and differences in system properties across languages, to reconstruct the most likely ancestral states, and to explore possible limits to and constraints on the striking diversity in how people count. Initially, the database will allow for analyses within and across systems, but the ultimate goal is to support tests of hypotheses on linguistic, cognitive, and cultural factors that may drive the emergence and evolution of numeral systems.
+
+Entries in Numeralbank are largely based on data collected by Eugene Chan as part of the long-running project "Numeral Systems of the World's Languages" that was hosted at the former Department of Linguistics at the MPI for Evolutionary Anthropology in Leipzig. The data is now hosted at the Department of Cultural and Linguistic Evolution at the MPI for the Science of Human History in Jena. The Numeralbank database is designed and maintained by Hans-Jörg Bibiko. The Numeralbank team consists of (in alphabetical order) [Sieghard Beller](http://www.uib.no/en/persons/Sieghard.Gunter.Beller), [Andrea Bender](http://www.uib.no/en/persons/Andrea.Bender), [Hans-Jörg Bibiko](http://www.shh.mpg.de/employees/42541/55811), [Robert Forkel](https://www.shh.mpg.de/employees/45369/55811), [Simon Greenhill](http://www.shh.mpg.de/employees/48696/55811), [Russell Gray](http://www.shh.mpg.de/2923/russellgray), [Harald Hammarström](http://www.shh.mpg.de/employees/48214/55811), [Fiona Jordan](http://www.bristol.ac.uk/school-of-arts/people/fiona-m-jordan/), and [Annemarie Verkerk](http://www.shh.mpg.de/employees/48689/25522).
+
 ### Phonobank
 
 Phonobank aims to establish a cross-linguistic comparative database of sound patterns, 
