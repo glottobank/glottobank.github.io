@@ -6,7 +6,7 @@ menu_item: home
 <p class="lead">
 Glottobank is an international research consortium established to document and 
 understand the world’s linguistic diversity. Glottobank team members are 
-pursuing this goal on two fronts. First, we have established four global 
+pursuing this goal on two fronts. First, we have established five global 
 databases documenting variation in language structure (Grambank), 
 lexicon (Lexibank), paradigm systems (Parabank), numerals (Numeralbank), and phonetic changes (Phonobank). 
 In doing so, we seek to develop new methods in language documentation, compile 
