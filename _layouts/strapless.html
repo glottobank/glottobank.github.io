@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Glottobank</title>
+
+    <link rel="stylesheet" href="css/strapless.css">
+    <link rel="stylesheet" href="css/github-light.css">
+    <meta name="viewport" content="width=device-width">
+</head>
+
+<body class="site">
+<header class="site-header">
+    <nav>
+        <div class="sticky-nav">
+            <div class="container-nav">
+                <div class="nav-container">
+                    <div class="navbar-brand"
+                         style="margin-top: -10px; margin-bottom: -10px;">
+                        <a href="http://glottobank.org" title="glottobank.org">
+                            <img width="200" src="images/glottobank_logo.png"
+                                 alt="Glottobank">
+                        </a>
+                    </div>
+                    <div class="navbar-nav nav-mobile">
+                        <a class="nav-item nav-link btn btn-nav{% if page.menu_item == 'home' %} active{% endif %}"
+                           href="index.html">Home</a>
+                        <a class="nav-item nav-link btn btn-nav{% if page.menu_item == 'people' %} active{% endif %}"
+                           href="people.html">People</a>
+                        <a class="nav-item nav-link btn btn-nav{% if page.menu_item == 'publications' %} active{% endif %}"
+                           href="publications.html">Publications</a>
+                    </div>
+                    <div class="navbar-nav nav-main">
+                        <a class="nav-item nav-link {% if page.menu_item == 'home' %} active{% endif %}"
+                           href="index.html">Home</a>
+                        <a href="people.html"
+                           class="nav-item nav-link{% if page.menu_item == 'people' %} active{% endif %}">People</a>
+                        <a href="publications.html"
+                           class="nav-item nav-link{% if page.menu_item == 'publications' %} active{% endif %}">Publications</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<main class="site-content">
+    {{content}}
+</main>
+<footer class="site-footer">
+    <!-- expanded_footer -->
+
+    <div class="footer">
+        <div class="container flex-footer">
+            <!--div class="f-links f-item">
+                <h2>CLDF Specification</h2>
+                <ul class="footer-links">
+                    <li><a href="https://github.com/glottobank/cldf/zipball/master">Download
+                        <strong>ZIP File</strong></a></li>
+                    <li><a href="https://github.com/glottobank/cldf/tarball/master">Download
+                        <strong>TAR Ball</strong></a></li>
+                    <li><a href="https://github.com/glottobank/cldf">View On <strong>GitHub</strong></a>
+                    </li>
+                </ul>
+            </div-->
+            <div class="f-about f-item">
+                <!--h2>About</h2>
+                <p>
+                    CLDF is an initiative by the Glottobank consortium with support from the
+                    Max Planck Institute for the Science of Human History and the ERC project
+                    Computer-Assisted Language Comparison.
+                </p-->
+                <table style="width: 100%">
+                    <tr>
+                        <td style="width: 20%; text-align: center; padding-top: 10px;">
+                            <a href="http://calc.digling.org" style="border: none;"
+                               title="ERC project Computer-Assisted Language Comparison">
+                                <img src="images/European_Research_Council_logo.svg"
+                                     alt="erc-logo" style="width:100px;"/>
+                            </a>
+                        </td>
+                        <td style="width: 20%; text-align: center;">
+                            <a href="https://www.auckland.ac.nz/"
+                               title="The University of Auckland" style="border: none;">
+                                <img width="130" style="border-width:0"
+                                     src="images/auckland_uny_logo.png"/>
+                            </a>
+                        </td>
+                        <td style="width: 20%; text-align: center;">
+                            <a href="http://www.dynamicsoflanguage.edu.au/"
+                               title="ARC Centre of Excellence for the Dynamics of Language"
+                               style="border: none;">
+                                <img width="300" style="border-width:0"
+                                     src="images/coedl_logo.png"/>
+                            </a>
+                        </td>
+                        <td style="width: 20%; text-align: center;">
+                            <a href="http://www.royalsociety.org.nz/programmes/funds/marsden/"
+                               title="Marsden Fund" style="border: none;">
+                                <img width="120" style="border-width:0"
+                                     src="images/Marsden-logo-rgb-96dpi.jpg"/>
+                            </a>
+                        </td>
+                        <td style="width: 20%; text-align: center; padding-top: 10px;">
+                            <a href="http://www.shh.mpg.de/" style="border: none;"
+                               title="Max Planck Institute for the Science of Human History">
+                                <img src="images/max-planck-logo.svg" alt="mpi-logo"
+                                     style="width:100px;"/>
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!--div class="f-contact f-item">
+                <h2>Contact Info</h2>
+                <span class="footer-address">Robert Forkel</span><br/>
+                <span class="footer-address" style="font-family: monospace">forkel@shh.mpg.de</span>
+            </div-->
+        </div>
+    </div>
+</footer>
+</body>
+</html>
